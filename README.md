@@ -1,4 +1,3 @@
-<img width="1920" height="965" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/35db9c7b-b039-4f6f-8f50-bbc4a26cc404" />
 # 🌸 Iris Flower Classification using Streamlit
 
 A Machine Learning web application that predicts the species of an Iris flower based on its sepal and petal measurements. The application is built using **Python**, **Scikit-learn**, and **Streamlit**, with a **Random Forest Classifier** trained on the Iris dataset.
@@ -112,7 +111,7 @@ streamlit run app.py
 
 ## 📷 Application Preview
 
-
+<img width="1920" height="965" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/35db9c7b-b039-4f6f-8f50-bbc4a26cc404" />
 
 ---
 
